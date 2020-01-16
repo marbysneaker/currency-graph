@@ -55,25 +55,19 @@ html{
 #BarChart-bar-us{
     grid-column: 3;
     grid-row:  3;
-    background: #374c80
-
-    ;
+    background: #374c80;
     z-index: 4;
 }
 #BarChart-bar-aud{
     grid-column: 4;
     grid-row:  3;
-    background: #7a5195
-
-    ;
+    background: #7a5195;
     z-index: 3;
 }
 #BarChart-bar-gbp{
     grid-column: 5;
     grid-row:  3;
-    background: #bc5090
-
-    ;    
+    background: #bc5090;    
     z-index: 2;
    
 }
