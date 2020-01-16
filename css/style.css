@@ -118,30 +118,30 @@ html{
 }
   
   @keyframes mymove-eur {
-    from {left: -200px;}
+    from {left: -100px;}
     to {left:0px}
   }
   @keyframes mymove-usd {
-    from {left: -300px;}
+    from {left: -200px;}
     to {left:0px}
   }
   @keyframes mymove-aud {
-    from {left: -400px;}
+    from {left: -300px;}
     to {left:0px}
   }
   @keyframes mymove-gbp {
-    from {left: -500px;}
+    from {left: -400px;}
     to {left:0px}
   }
   @keyframes mymove-brl {
-    from {left: -600px;}
+    from {left: -500px;}
     to {left:0px}
   }
   @keyframes mymove-nzd {
-    from {left: -700px;}
+    from {left: -600px;}
     to {left:0px}
   }
   @keyframes mymove-sgd {
-    from {left: -800px;}
+    from {left: -700px;}
     to {left:0px}
   }
