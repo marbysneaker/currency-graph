@@ -1,6 +1,7 @@
 html{
 
     background: var(--bg-color);
+    z-index: 10;
     
 }
 :root {
@@ -104,6 +105,7 @@ html{
     -ms-transform: scale(1.2); /* IE 9 */
     -webkit-transform: scale(1.2); /* Safari 3-8 */
     transform: scale(1.2);
+    z-index: 10;
 }         
 .graph-bar{
     position:absolute;
